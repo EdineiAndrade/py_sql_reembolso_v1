@@ -1,0 +1,11 @@
+# Ignorar a pasta:
+arquivos/
+build/
+boletos/
+dist/
+downloaded_files/
+lista_contatos/
+
+# Ignorar o arquivos:
+unir_email.py
+

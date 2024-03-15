@@ -1,0 +1,17 @@
+FILTRAR NO REEMBOLSO:
+    -ESCRITÓRIO
+    -MES ATUAL E MES SEGUINTE
+    -NÃO PAGOA E PAGOS PARCIALMENTE
+BAIXAR BASE REEMBOLSO PBI
+INCLUIR AS 3 COLUNAS:
+    -APOS A DATA DE RECEBIMENTO INDECE 3 COLUNA "Valor_Recebido"
+    -APOS A COLUNA "Valor_Recebido", INSERIR A COLUNA "Status"
+    -EANTES DA COLUNA "Endereço completo", inserir "Município"
+
+
+SALVAR OS DOIS ARQUIVOS NA PASTA DO PC:
+
+C:\Reembolso\Bases\Base_Reembolso.xlsx"
+
+C:\Reembolso\Bases\Valores_Recebidos.xlsx"
+
